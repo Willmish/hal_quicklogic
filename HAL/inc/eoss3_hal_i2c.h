@@ -23,8 +23,8 @@
 #include <stdint.h>
 #include <stddef.h>
 #include "test_types.h"
-#include "eoss3_dev.h"
-#include "eoss3_hal_def.h"
+#include <eoss3_dev.h>
+#include <eoss3_hal_def.h>
 
    
 /* I2C internal states */
